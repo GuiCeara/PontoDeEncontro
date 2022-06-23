@@ -1,0 +1,13 @@
+git init
+git add .
+
+git config --global user.email "guilhermecearavenancio@gmail.com"
+git config --global user.name "Guilherme Ceará"
+  
+git commit -m "first commit"
+
+git branch -M master
+
+git remote add origin https://github.com/GuiCeara/PontoDeEncontro.git
+
+git push -u origin master
