@@ -2,8 +2,8 @@
 git init
 git add .
 
-git config --global user.email "guilhermecearavenancio@gmail.com"
-git config --global user.name "Guilherme Ceará"
+git config --global user.email ""
+git config --global user.name ""
   
 git commit -m "first commit"
 
